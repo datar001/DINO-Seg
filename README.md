@@ -51,7 +51,7 @@ The dataset will be released on Hugging Face.
 
 Dataset link:
 
-- [Hugging Face Dataset Placeholder](https://huggingface.co/datasets/datar001/DINO-Seg)
+- [Dataset](https://huggingface.co/datasets/datarr/DINO-Seg/tree/main)
 
 If the page is not available yet, it means the dataset upload is still in progress.
 
